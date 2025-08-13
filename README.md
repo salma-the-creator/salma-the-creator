@@ -12,27 +12,18 @@
 ---
 👋 Hi, I'm Salmaa!  💻 Passionate about coding, open-source, and building cool projects.  🌱 Currently learning and exploring new technologies.  
 ---
-
-
-<!-- Contact Section with Hover Animation -->
+<!-- Contact Section -->
 <p align="center">
   <a href="mailto:s.amdouni.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" class="contact-icon" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/salma-amdouni-aa162731b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" class="contact-icon" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<!-- Hover Animation CSS for GitHub Pages -->
-<style>
-  .contact-icon {
-    transition: transform 0.3s ease;
-  }
-  .contact-icon:hover {
-    transform: scale(1.1);
-  }
-</style>
+
+
 
 
 ---
