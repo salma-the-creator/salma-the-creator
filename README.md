@@ -13,12 +13,18 @@
 👋 Hi, I'm Salmaa!  💻 Passionate about coding, open-source, and building cool projects.  🌱 Currently learning and exploring new technologies.  
 ---
 
-## 🚧 Under Construction
-
+<!-- Contact Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Work%20in%20Progress-ff1493?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Palette-Blue%2FWhite%2FPink-00bfff?style=for-the-badge"/>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
+---
+
 
 ---
 
