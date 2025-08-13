@@ -10,9 +10,7 @@
 </p>
 
 ---
-👋 Hi, I'm Salmaa!  
-💻 Passionate about coding, open-source, and building cool projects.  
-🌱 Currently learning and exploring new technologies.  
+👋 Hi, I'm Salmaa!  💻 Passionate about coding, open-source, and building cool projects.  🌱 Currently learning and exploring new technologies.  
 ---
 
 ## 🚧 Under Construction
@@ -45,4 +43,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=salma-the-creator&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:ffffff,100:ff1493&height=120&section=footer"/>
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:ffffff,100:ff1493&height=120&section=footer" width="100%" />
+</p>
