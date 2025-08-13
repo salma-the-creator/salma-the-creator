@@ -1,79 +1,63 @@
-<!-- Banner -->
+<!-- Banner animated -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6ec7&height=200&section=header&text=Salma%20The%20Creator&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-<!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF6EC7&center=true&vCenter=true&lines=Mobile+%26+Web+Developer;UI%2FUX+Designer;Tech+Explorer+%F0%9F%9A%80;Code+With+Creativity" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF6EC7&center=true&vCenter=true&lines=Mobile+%26+Web+Developer;Anime+Lover+%F0%9F%8E%A7;UI%2FUX+Creativity;Under+Construction+%F0%9F%9A%A7"/>
 </h1>
 
----
-
-### 💫 About Me  
-- 🎓 **Computer Science Student** at UIR  
-- 📱 **Mobile Development**: Flutter, Kotlin  
-- 🌐 **Web Development**: PHP, MySQL, React, Bootstrap  
-- 🎨 **UI/UX Design** lover using Figma  
-- 📚 Continuously improving and learning new tech  
-
----
-
-### ⚡ Tech Stack (Animated Icons)  
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" style="animation: pulse 2s infinite;"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50" style="animation: bounce 2s infinite;"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=dart" width="50" height="50" style="animation: pulse 2s infinite;"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=php" width="50" height="50" style="animation: bounce 2s infinite;"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" style="animation: pulse 2s infinite;"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" style="animation: bounce 2s infinite;"/></a>
+  <img src="assets/anime-coder.gif" alt="Anime coding" width="350"/>
 </p>
 
 ---
 
-### 📌 Featured Projects  
-🚀 **Highlighted Work**:  
-- 💊 **Pharmacy Management System** – PHP/MySQL CRUD + PDF Reports  
-- 🌱 **Plant Shop** – React + Redux store management  
-- 📝 **Todo List App** – MVC pattern with PHP/MySQL  
-- 📚 **Student Notes Manager** – JavaScript Interactive App  
-
----
-
-### 📊 GitHub Stats (Animated)  
+## 🚧 Under Construction (Animated)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salma-the-creator&show_icons=true&theme=radical&count_private=true&hide_border=true" height="150"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=salma-the-creator&theme=radical&hide_border=true" height="150"/>  
+  <!-- Crane + moving hook (animated SVG stored locally) -->
+  <img src="assets/construction_crane.svg" alt="Construction animation" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building...-ff6ec7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Theme-Anime%20x%20Code-8A2BE2?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🏆 Achievements & Badges  
+## ⚙️ Now Building
+- 💊 Pharmacy Management system (PHP/MySQL + PDF)
+- 🌱 Plant Shop (React + Redux)
+- 📱 Kotlin + Flutter demos
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salma-the-creator&theme=radical&no-frame=true&row=1&column=6" />
+  <!-- Animated progress bar (repeat) -->
+  <img src="assets/progress_bar.svg" alt="Progress bar" width="500"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me  
+## 🧰 Tech (short)
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,dart,react,php,mysql,js,html,css,figma,git,github"/>
 </p>
 
 ---
 
-<!-- Footer -->
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salma-the-creator&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=salma-the-creator&theme=radical&hide_border=true" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge"/>
+  </a>
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge"/>
+  </a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6ec7&height=120&section=footer"/>
-
-<!-- CSS for animation -->
-<style>
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-5px); }
-}
-</style>
