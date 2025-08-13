@@ -12,6 +12,8 @@
 ---
 👋 Hi, I'm Salmaa!  💻 Passionate about coding, open-source, and building cool projects.  🌱 Currently learning and exploring new technologies.  
 ---
+---
+## 🧰 contacts 
 <!-- Contact Section with Colored Icons and Space -->
 <p align="center">
   <a href="mailto:s.amdouni.pro@gmail.com" title="Send me an Email">
