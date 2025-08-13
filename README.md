@@ -1,12 +1,9 @@
 <!-- Banner (green gradient) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:065f46&height=200&section=header&text=Salma%20The%20Creator%20🐱&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:065f46&height=200&section=header&text=Salma%20The%20Creator%20&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 ---
 
 ## 🚧 Under Construction
-<p align="center">
-  <img src="assets/construction_crane.svg" alt="Construction animation" width="640"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Work%20in%20Progress-22c55e?style=for-the-badge"/>
@@ -19,6 +16,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,kotlin,dart,react,php,mysql,js,html,css,figma,git,github"/>
 </p>
+
+---
+
+## 📌 Projects (shortlist)
+- 💊 Pharmacy Management System (PHP/MySQL + PDF)
+- 🌱 Plant Shop (React + Redux)
+- 📝 Todo MVC (PHP/MySQL)
+- 📚 Notes Manager (JavaScript)
 
 ---
 
