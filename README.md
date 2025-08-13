@@ -1,5 +1,13 @@
 <!-- Banner (neon style) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:ffffff,100:ff1493&height=200&section=header&text=Salma%20The%20Creator&fontSize=48&fontColor=000000&animation=twinkling&fontAlignY=35"/>
+<!-- Banner with fade-in & shine effect -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B33,50:003A63,100:007A8A&height=200&section=header&text=Salma%20The%20Creator&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" />
+</p>
+
+<!-- Shine text animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00CED1&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+a+Mobile+Developer;Love+Coding+and+Design" alt="Typing SVG" />
+</p>
 
 ---
 👋 Hi, I'm Salmaa!  
