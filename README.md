@@ -2,7 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:065f46&height=200&section=header&text=Salma%20The%20Creator%20&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 ---
-
+👋 Hi, I'm Salmaa!
+💻 Passionate about coding, open-source, and building cool projects.
+🌱 Currently learning and exploring new technologies.
+---
 ## 🚧 Under Construction
 
 <p align="center">
