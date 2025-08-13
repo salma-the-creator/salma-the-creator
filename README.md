@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6ec7&height=200&section=header&text=Salma%20The%20Creator&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-<!-- Typing animation -->
+<!-- Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF6EC7&center=true&vCenter=true&lines=Mobile+%26+Web+Developer;UI%2FUX+Designer;Tech+Explorer+%F0%9F%9A%80;Code+With+Creativity" />
 </h1>
@@ -9,44 +9,44 @@
 ---
 
 ### 💫 About Me  
-- 🎓 *Computer Science Student* at UIR  
-- 📱 *Mobile Development*: Flutter, Kotlin  
-- 🌐 *Web Development*: PHP, MySQL, React, Bootstrap  
-- 🎨 *UI/UX Design* lover using Figma  
+- 🎓 **Computer Science Student** at UIR  
+- 📱 **Mobile Development**: Flutter, Kotlin  
+- 🌐 **Web Development**: PHP, MySQL, React, Bootstrap  
+- 🎨 **UI/UX Design** lover using Figma  
 - 📚 Continuously improving and learning new tech  
 
 ---
 
-### ⚡ Tech Stack  
+### ⚡ Tech Stack (Animated Icons)  
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" style="animation:pulse 2s infinite;"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50" style="animation:pulse 2s infinite;"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=php" width="50" height="50" style="animation:glow 1.5s infinite;"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" style="animation:glow 1.5s infinite;"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" style="animation:pulse 2s infinite;"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=figma" width="50" height="50" style="animation:glow 1.5s infinite;"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" style="animation: pulse 2s infinite;"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50" style="animation: bounce 2s infinite;"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=dart" width="50" height="50" style="animation: pulse 2s infinite;"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=php" width="50" height="50" style="animation: bounce 2s infinite;"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" style="animation: pulse 2s infinite;"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" style="animation: bounce 2s infinite;"/></a>
 </p>
 
 ---
 
 ### 📌 Featured Projects  
-🚀 *Highlighted Work*:  
-- 💊 *Pharmacy Management System* – PHP/MySQL CRUD + PDF Reports  
-- 🌱 *Plant Shop* – React + Redux store management  
-- 📝 *Todo List App* – MVC pattern with PHP/MySQL  
-- 📚 *Student Notes Manager* – JavaScript Interactive App  
+🚀 **Highlighted Work**:  
+- 💊 **Pharmacy Management System** – PHP/MySQL CRUD + PDF Reports  
+- 🌱 **Plant Shop** – React + Redux store management  
+- 📝 **Todo List App** – MVC pattern with PHP/MySQL  
+- 📚 **Student Notes Manager** – JavaScript Interactive App  
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats (Animated)  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salma-the-creator&show_icons=true&theme=radical&count_private=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=salma-the-creator&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salma-the-creator&show_icons=true&theme=radical&count_private=true&hide_border=true" height="150"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=salma-the-creator&theme=radical&hide_border=true" height="150"/>  
 </p>
 
 ---
 
-### 🏆 Achievements  
+### 🏆 Achievements & Badges  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=salma-the-creator&theme=radical&no-frame=true&row=1&column=6" />
 </p>
@@ -65,17 +65,15 @@
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6ec7&height=120&section=footer"/>
 
-<!-- CSS animations for icons -->
+<!-- CSS for animation -->
 <style>
 @keyframes pulse {
   0% { transform: scale(1); }
   50% { transform: scale(1.1); }
   100% { transform: scale(1); }
 }
-@keyframes glow {
-  0% { filter: drop-shadow(0 0 5px #ff6ec7); }
-  50% { filter: drop-shadow(0 0 15px #ff6ec7); }
-  100% { filter: drop-shadow(0 0 5px #ff6ec7); }
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
 }
-</style>act: ...
--
+</style>
