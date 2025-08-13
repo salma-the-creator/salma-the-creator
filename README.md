@@ -24,8 +24,9 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salma-the-creator&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=salma-the-creator&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salma-the-creator&show_icons=true&theme=green&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=salma-the-creator&theme=green&hide_border=true" height="150"/>
 </p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:065f46&height=120&section=footer"/>
