@@ -12,22 +12,15 @@
 ---
 👋 Hi, I'm Salmaa!  💻 Passionate about coding, open-source, and building cool projects.  🌱 Currently learning and exploring new technologies.  
 ---
-<!-- Contact Section -->
+<!-- Contact Section with Icons -->
 <p align="center">
-  <a href="mailto:s.amdouni.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:s.amdouni.pro@gmail.com" title="Send me an Email">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/salma-amdouni-aa162731b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/salma-amdouni-aa162731b/" target="_blank" title="Connect on LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
-
-
-
-
-
----
-
 
 ---
 
