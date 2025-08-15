@@ -53,7 +53,10 @@
 </p>
 
 ---
+# My GitHub Activity
 
+![GitHub Contribution Grid Snake](https://github.com/salma-the-creator/salma-the-creator/blob/output/github-contribution-grid-snake.svg)
+---
 <!-- ====== FOOTER BANNER ====== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B33,50:3399FF,100:80D4FF&height=120&section=footer" width="100%" />
