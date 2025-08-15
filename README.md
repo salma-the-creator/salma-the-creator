@@ -1,11 +1,12 @@
+
 <!-- ====== HEADER BANNER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B3B3,50:004F4F,100:001B33&height=200&section=header&text=Salma%20The%20Creator&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:80D4FF,50:3399FF,100:001B33&height=200&section=header&text=Salma%20The%20Creator&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width="100%" />
 </p>
 
 <!-- ====== INTRO TEXT ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00E0FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+a+Mobile+Developer;I+Love+Coding+%26+Design;Building+Cool+Projects+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=80D4FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+a+Mobile+Developer;I+Love+Coding+%26+Design;Building+Cool+Projects+Everyday" alt="Typing SVG" />
 </p>
 
 ---
@@ -55,5 +56,6 @@
 
 <!-- ====== FOOTER BANNER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B33,50:004F4F,100:00B3B3&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B33,50:3399FF,100:80D4FF&height=120&section=footer" width="100%" />
 </p>
+
