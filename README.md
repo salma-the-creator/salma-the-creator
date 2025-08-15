@@ -55,7 +55,12 @@
 ---
 # My GitHub Activity
 
-![GitHub Contribution Grid Snake](https://github.com/salma-the-creator/salma-the-creator/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salma-the-creator/salma-the-creator/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salma-the-creator/salma-the-creator/output/snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/salma-the-creator/salma-the-creator/output/snake.svg">
+</picture>
+
 ---
 <!-- ====== FOOTER BANNER ====== -->
 <p align="center">
