@@ -40,7 +40,7 @@
 
 ## 📌 Featured Projects  
 - 💊 **Pharmacy Management System** – PHP/MySQL + PDF Reports  
-- 🌱 **Plant Shop** – React + Redux Store  
+- 🌱 **Plant Shop** – React + Redux Store   
 - 📝 **Todo MVC** – PHP/MySQL (MVC Pattern)  
 - 📚 **Notes Manager** – JavaScript CRUD  
 
