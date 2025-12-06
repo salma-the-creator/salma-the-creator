@@ -11,7 +11,7 @@
 
 ---
 
-## 👋 About Me  
+## 👋 About Me 
 💻 **Salma** – Passionate about coding, open-source, and creative designs.  
 🌱 Currently exploring **mobile app development** and **modern web technologies**.  
 🚀 Always excited to learn and share knowledge!  
