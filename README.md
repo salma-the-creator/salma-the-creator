@@ -1,4 +1,4 @@
-# Salma Amdouni | Software Developer
+                                                                 # Salma Amdouni | Software Developer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:102D46,100:00CFFF&height=220&section=header&text=Hi,%20I'm%20Salma&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Mobile%20%7C%20Web%20%7C%20DevOps%20%7C%20Data&descSize=18&descColor=52DDFB&descAlignY=60" width="100%" />
